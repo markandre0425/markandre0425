@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=markandre0425&theme=github_dark)](https://github.com/markandre0425)
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=markandre0425&theme=github_dark)](https://github.com/markandre0425) , [![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=markandre0425&theme=github_dark)](https://github.com/markandre0425)
 
 [![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markandre0425&theme=github_dark)](https://github.com/markandre0425)
                   [![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=markandre0425&theme=github_dark&utcOffset=8)](https://github.com/markandre0425)
